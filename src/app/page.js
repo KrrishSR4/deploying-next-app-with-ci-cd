@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Hello Krrish How Are You Doing Today?
+            Hello Krrish How Are You Doing Today....!!!!!?
           </li>
         </ol>
 
